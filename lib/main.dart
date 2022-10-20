@@ -33,7 +33,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Hello, World and Space and Moon!',
+          'Hello, World and Space!',
         ),
       ),
     );
